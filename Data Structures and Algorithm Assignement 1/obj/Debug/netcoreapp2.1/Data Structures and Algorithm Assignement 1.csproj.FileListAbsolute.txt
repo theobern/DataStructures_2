@@ -1,0 +1,11 @@
+C:\Users\theob\Desktop\Data Structures and Algorithm Assignement 1\bin\Debug\netcoreapp2.1\Data Structures and Algorithm Assignement 1.deps.json
+C:\Users\theob\Desktop\Data Structures and Algorithm Assignement 1\bin\Debug\netcoreapp2.1\Data Structures and Algorithm Assignement 1.runtimeconfig.json
+C:\Users\theob\Desktop\Data Structures and Algorithm Assignement 1\bin\Debug\netcoreapp2.1\Data Structures and Algorithm Assignement 1.runtimeconfig.dev.json
+C:\Users\theob\Desktop\Data Structures and Algorithm Assignement 1\bin\Debug\netcoreapp2.1\Data Structures and Algorithm Assignement 1.dll
+C:\Users\theob\Desktop\Data Structures and Algorithm Assignement 1\bin\Debug\netcoreapp2.1\Data Structures and Algorithm Assignement 1.pdb
+C:\Users\theob\Desktop\Data Structures and Algorithm Assignement 1\obj\Debug\netcoreapp2.1\Data Structures and Algorithm Assignement 1.csprojAssemblyReference.cache
+C:\Users\theob\Desktop\Data Structures and Algorithm Assignement 1\obj\Debug\netcoreapp2.1\Data Structures and Algorithm Assignement 1.csproj.CoreCompileInputs.cache
+C:\Users\theob\Desktop\Data Structures and Algorithm Assignement 1\obj\Debug\netcoreapp2.1\Data Structures and Algorithm Assignement 1.AssemblyInfoInputs.cache
+C:\Users\theob\Desktop\Data Structures and Algorithm Assignement 1\obj\Debug\netcoreapp2.1\Data Structures and Algorithm Assignement 1.AssemblyInfo.cs
+C:\Users\theob\Desktop\Data Structures and Algorithm Assignement 1\obj\Debug\netcoreapp2.1\Data Structures and Algorithm Assignement 1.dll
+C:\Users\theob\Desktop\Data Structures and Algorithm Assignement 1\obj\Debug\netcoreapp2.1\Data Structures and Algorithm Assignement 1.pdb
