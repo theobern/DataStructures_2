@@ -63,6 +63,21 @@ namespace Data_Structures_and_Algorithm_Assignement_1
             }
         }
 
+        public void PopulateWithSampleData()
+        {
+            Student one = new Student("Bobby", "One", "001", 12);
+            Student two = new Student("Dylan", "Two", "002", 9);
+            Student three = new Student("Greg", "Three", "003", 14);
+            Student four = new Student("Jeanette", "Four", "004", 13);
+            Student five = new Student("Clementine", "Five", "005", 5);
+
+            Add(one);
+            Add(two);
+            Add(three);
+            Add(four);
+            Add(five);
+        }
+
         public void Add(Student newStudent)
         {
             Student[] newArray = new Student[Length + 1];
