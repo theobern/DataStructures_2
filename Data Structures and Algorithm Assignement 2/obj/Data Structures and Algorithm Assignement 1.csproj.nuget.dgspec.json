@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Théo\\Desktop\\DataStructures_2-master\\Data Structures and Algorithm Assignement 2\\Data Structures and Algorithm Assignement 1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Théo\\Desktop\\DataStructures_2-master\\Data Structures and Algorithm Assignement 2\\Data Structures and Algorithm Assignement 1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Théo\\Desktop\\DataStructures_2-master\\Data Structures and Algorithm Assignement 2\\Data Structures and Algorithm Assignement 1.csproj",
+        "projectName": "Data Structures and Algorithm Assignement 1",
+        "projectPath": "C:\\Users\\Théo\\Desktop\\DataStructures_2-master\\Data Structures and Algorithm Assignement 2\\Data Structures and Algorithm Assignement 1.csproj",
+        "packagesPath": "C:\\Users\\Théo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Théo\\Desktop\\DataStructures_2-master\\Data Structures and Algorithm Assignement 2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Théo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
